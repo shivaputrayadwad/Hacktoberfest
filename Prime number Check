@@ -11,7 +11,7 @@ int isprime(int num)
 	}
 	return 1;
 }
-int main()
+int main(void)
 {
 	int n;
 	printf("Enter the number\n");
@@ -20,4 +20,5 @@ int main()
 		printf("The given number %d is prime\n",n);
 	else
 		printf("The given number %d is not a prime\n",n);
+	return 0;
 }
