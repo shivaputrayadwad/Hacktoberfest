@@ -1,4 +1,4 @@
-// Binary Search in C++
+// Optimized code for Binary Search in C++
 
 #include <iostream>
 using namespace std;
