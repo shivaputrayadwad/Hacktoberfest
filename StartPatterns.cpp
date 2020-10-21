@@ -15,7 +15,7 @@ void HalfPyramind()
   {
     for (j = 1; j <= i; j++)
         Console.Write("*");
-        onsole.WriteLine();
+        Console.WriteLine();
   }
 }
 
